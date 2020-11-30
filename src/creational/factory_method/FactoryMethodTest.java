@@ -1,6 +1,6 @@
 package creational.factory_method;
 
-public class MainFactoryMethod {
+public class FactoryMethodTest {
 
     public static void main(String[] args) {
         Computer pc = ComputerFactory.getComputer("pc", "8", "500 GB", "2.4 GH");
