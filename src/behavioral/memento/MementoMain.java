@@ -3,7 +3,7 @@ package behavioral.memento;
 /**
  * Implement Undo mechanism
  */
-public class Main {
+public class MementoMain {
     public static void main(String[] args) {
         Editor editor = new Editor();
         History history = new History();
