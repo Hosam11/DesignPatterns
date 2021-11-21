@@ -12,7 +12,7 @@ the factory class.
 -> Notice that based on the input parameter, different subclass is created and returned.
 getComputer is the factory method.
 
-#Factory Design Pattern Advantages#
+# Factory Design Pattern Advantages #
 
 1- Factory design pattern provides approach to code for interface rather than implementation.
 2- Factory pattern removes the instantiation of actual implementation classes from client code.

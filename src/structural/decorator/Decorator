@@ -1,0 +1,10 @@
+## Decorator ##
+-> lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain
+ the behaviors.
+-> Decorator patterns allow a user to add new functionality to an existing object without altering its structure.
+ So, there is no change to the original class.
+
+
+
+https://www.geeksforgeeks.org/decorator-design-pattern-in-java-with-example/
+https://refactoring.guru/design-patterns/decorator/java/example

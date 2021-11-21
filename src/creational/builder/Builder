@@ -1,0 +1,16 @@
+## Builder ##
+
+-> allows for the step-by-step creation of complex objects using the correct sequence of actions, The construction is
+ controlled by a director object that only needs to know the type of object it is to create.
+
+ -> The construction is controlled by a director object that only needs to know the type of object it is to create.
+
+-> In normal practice, if we want to make a immutable User class, then we must pass all five information as parameters
+ to constructor.
+ Very good. Now what if only firstName and lastName are mandatory and rest 3 fields are optional.
+ Problem !! We need more constructors.
+
+
+ Examples:
+ java.lang.StringBuilder#append()
+ java.lang.StringBuffer#append()

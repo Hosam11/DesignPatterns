@@ -1,0 +1,4 @@
+## Template Method ##
+-> skeleton of an algorithm in the baseclass and lets subclasses override specific steps of the algorithm without
+changing its structure.
+->

@@ -1,0 +1,10 @@
+## Iterator  ##
+
+-> lets you traverse elements of a collection without exposing its underlying representation
+(list, stack, tree, etc.).
+-> provides a way to access the elements of an aggregate object sequentially without exposing its underlying
+ representation.
+
+
+
+ https://refactoring.guru/design-patterns/iterator

@@ -2,7 +2,7 @@ package creational.abstract_factory;
 
 import creational.factory_method.Computer;
 
-public class AbstractFactoryTest {
+public class AbstractFactoryDemo {
 
     public static void main(String[] args) {
         Computer pc = ComputerFactory.getComputer(

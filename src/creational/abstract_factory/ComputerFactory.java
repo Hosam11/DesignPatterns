@@ -8,7 +8,7 @@ import creational.factory_method.Computer;
  */
 public class ComputerFactory {
 
-    public static Computer getComputer(ComputerAbstractFactory factory){
+    public static Computer getComputer(ComputerAbstractFactory factory) {
         return factory.createComputer();
     }
 }

@@ -1,0 +1,10 @@
+## Adapter ##
+-> allows incompatible objects to collaborate.
+-> The Adapter acts as a wrapper between two objects. It catches calls for one object and transforms them to format
+ and interface recognizable by the second object.
+
+
+
+# When to use:
+-> When we want to reuse legacy code in our application without making any modification in the original code
+-> When our application is not compatible with the interface that our client is expecting

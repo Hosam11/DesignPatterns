@@ -1,0 +1,7 @@
+## Strategy
+-> turns a set of behaviors into objects and makes them interchangeable inside original context object.
+-> allows us to change the behavior of an algorithm at runtime
+
+
+
+https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm

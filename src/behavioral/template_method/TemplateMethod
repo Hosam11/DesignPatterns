@@ -1,0 +1,15 @@
+## Template Method ##
+-> skeleton of an algorithm in the baseclass and lets subclasses override specific steps of the algorithm without
+changing its structure.
+
+
+
+
+## Pros ##
+->  You can pull the duplicate code into a superclass.
+-> You can let clients override only certain parts of a large algorithm, making them less affected by changes
+that happen to other parts of the algorithm.
+
+https://refactoring.guru/design-patterns/template-method/java/example
+https://refactoring.guru/design-patterns/template-method
+https://www.tutorialspoint.com/design_pattern/template_pattern.htm
